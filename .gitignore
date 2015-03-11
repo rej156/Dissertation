@@ -1,0 +1,17 @@
+/target
+/classes
+/checkouts
+pom.xml
+pom.xml.asc
+*.jar
+*.class
+/.lein-*
+/.nrepl-port
+/resources/public/js/*
+!/resources/public/js/materialize.js
+!/resources/public/js/jquery.js
+!/resources/public/js/react.js
+/out
+/.repl
+*.DS_Store
+*.*~
